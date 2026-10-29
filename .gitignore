@@ -7,7 +7,7 @@
 # 3) ipynb 파일과 .gitignore 자체는 허용
 !*.ipynb
 !.gitignore
-!requirements.txt
+!/requirements.txt
 
 # 4) 가상환경, 주피터 자동 백업 폴더는 다시 무시
 .venv/
